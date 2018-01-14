@@ -1,0 +1,3 @@
+# sarathi_industries
+Billing
+file:///Users/srivathsan/Desktop/bill/bill.html?data={%22bill_number%22:%2223%22,%22date%22:%2214.08.2018%22,%22company_name%22:%22Sarathy%20industries%22,%22gstin%22:%22ANWPS5818F%22,%22dispatched_through%22:%2214.08.2018%22,%22packing%22:%22Professional%20Courier%22,%22products%22:[{%22hsn_code%22:%22132%22,%22description%22:%22File%22,%22unit%22:%22No.%22,%22price%22:%2217.80%22,%22quantity%22:%2220%22},{%22hsn_code%22:%2211%22,%22description%22:%22Tag%22,%22unit%22:%22Gross%22,%22price%22:%2217%22,%22quantity%22:%2230%22}],%22igst%22:true,%22cgst%22:false,%22sgst%22:false}
